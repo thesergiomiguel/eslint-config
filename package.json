@@ -1,6 +1,6 @@
 {
   "name": "@thesergiomiguel/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extendable eslint config, with TypeScript and Prettier and (optionally) React.",
   "main": "index.js",
   "files": [
